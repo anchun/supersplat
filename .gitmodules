@@ -1,0 +1,3 @@
+[submodule "submodules/playcanvas"]
+	path = submodules/playcanvas
+	url = https://github.com/anchun/playcanvas.git
