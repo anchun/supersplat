@@ -39,7 +39,7 @@ Once you're done editing the scene, use the Scene menu to Save, Save As and Expo
 The steps required to clone the repo and run a local development server are as follows:
 
 ```sh
-git clone --recursive https://github.com/playcanvas/supersplat.git
+git clone --recursive https://github.com/anchun/supersplat.git
 cd supersplat/submodules/playcanvas
 npm i
 npm run build                   # change to npm run watch:debug for debugging submodule
